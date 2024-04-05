@@ -1,0 +1,33 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-image: url(https://th.bing.com/th/id/R.5ea4d44a30515a6fb5b7f988bd2a786f?rik=Izks3CYw9pnZLw&pid=ImgRaw&r=0);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.container {
+    max-width: 800px;
+    margin: 50px auto;
+    text-align: center;
+    
+}
+.weather-info {
+    border: 3px solid rgb(62, 134, 110);;
+    background-color: rgb(90, 176, 148);
+    padding: 20px;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    text-align: center;
+}
+footer{
+    text-align: center;
+    margin-top: 400px;
+    color: rgb(12, 64, 109);
+    background-color: beige;
+    padding: 10px;
+}
+label{
+    size: 50px;
+}
